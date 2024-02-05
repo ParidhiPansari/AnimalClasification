@@ -1,1 +1,2 @@
 # AnimalClasification
+A Convolutional Neural Network (CNN) operates by taking an image as input, assigning weights and biases to various aspects of the image to differentiate it. Training neural networks involves using batches of labeled images, with predictions compared to existing labels. The network parameters are adjusted to minimize the distance between predictions and truth, enhancing prediction capabilities. The training process repeats for each batch.
